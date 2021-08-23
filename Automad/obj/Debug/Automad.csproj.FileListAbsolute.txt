@@ -1,0 +1,14 @@
+C:\Users\ali.jezzini.MONTYHOLDING\source\repos\Automad\Automad\bin\Debug\Automad.exe.config
+C:\Users\ali.jezzini.MONTYHOLDING\source\repos\Automad\Automad\bin\Debug\Automad.exe
+C:\Users\ali.jezzini.MONTYHOLDING\source\repos\Automad\Automad\bin\Debug\Automad.pdb
+C:\Users\ali.jezzini.MONTYHOLDING\source\repos\Automad\Automad\obj\Debug\Automad.csprojResolveAssemblyReference.cache
+C:\Users\ali.jezzini.MONTYHOLDING\source\repos\Automad\Automad\obj\Debug\Automad.Login.resources
+C:\Users\ali.jezzini.MONTYHOLDING\source\repos\Automad\Automad\obj\Debug\Automad.Properties.Resources.resources
+C:\Users\ali.jezzini.MONTYHOLDING\source\repos\Automad\Automad\obj\Debug\Automad.csproj.GenerateResource.Cache
+C:\Users\ali.jezzini.MONTYHOLDING\source\repos\Automad\Automad\obj\Debug\Automad.csproj.CoreCompileInputs.cache
+C:\Users\ali.jezzini.MONTYHOLDING\source\repos\Automad\Automad\obj\Debug\Automad.exe
+C:\Users\ali.jezzini.MONTYHOLDING\source\repos\Automad\Automad\obj\Debug\Automad.pdb
+C:\Users\ali.jezzini.MONTYHOLDING\source\repos\Automad\Automad\obj\Debug\Automad.Main.resources
+C:\Users\ali.jezzini.MONTYHOLDING\source\repos\Automad\Automad\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\ali.jezzini.MONTYHOLDING\source\repos\Automad\Automad\bin\Debug\WebDriver.dll
+C:\Users\ali.jezzini.MONTYHOLDING\source\repos\Automad\Automad\bin\Debug\WebDriver.xml
